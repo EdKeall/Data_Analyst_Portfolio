@@ -1,4 +1,4 @@
-This project encompasses my Dissertation on the Trends in subsurface Phytoplankton Biomass at the Bermuda Atlantic Time-seres study.
+This project encompasses my Dissertation on the 'Trends in subsurface Phytoplankton Biomass at the Bermuda Atlantic Time-seres study'.
 
 I focused on this work from September 2021 to March 2022.
 
