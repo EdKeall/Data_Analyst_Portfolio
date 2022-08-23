@@ -8,4 +8,4 @@
 - 'AIM_COVID19_Model' (3KB) - The main body of work in this project
 
 ##### Skills involved (using <b>R</b>):
-1. Data/Model visualisation using ggplot
+1.  Data/Model visualisation using ggplot
