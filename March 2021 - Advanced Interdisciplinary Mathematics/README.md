@@ -13,19 +13,18 @@ This repository is for the 3 group projects I completed during the 2nd term of m
       <li>Includes report of analysed data, written in <b>LaTeX</b> </li>
     </ol>
   </li>
-  
-  <li> <b>January 2021 - Windfarm Placement optimisation</b> </li>
-    <ol>
-      <li>Contains three groupwork projects completed at the start of 2021 in the AIM module at the University of Exeter</li>
-      <li>Written in <b>MATLAB</b> & <b>R</b> </li>
-  <li> of analysed data, all written in <b>LaTeX</b> </li>
-    </ol>
-  </li>
   <li> <b>Next Project</b> </li>
     <ol>
       <li></li>
       <li></li>
       <li></li>
+    </ol>
+  </li>  
+  <li> <b>January 2021 - Windfarm Placement optimisation</b> </li>
+    <ol>
+      <li>Contains three groupwork projects completed at the start of 2021 in the AIM module at the University of Exeter</li>
+      <li>Written in <b>MATLAB</b> </li>
+  <li> Includes presentation of analysed data, written in <b>LaTeX</b> </li>
     </ol>
   </li>
 </ol>
