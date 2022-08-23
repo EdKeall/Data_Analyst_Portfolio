@@ -18,7 +18,6 @@ This repository is for the data analysis related projects I have done under the 
       <li>Contains three groupwork projects completed at the start of 2021 in the AIM module at the University of Exeter</li>
       <li>Written in <b>MATLAB</b> & <b>R</b> </li>
   <li>Each project was reported using a different method of communication. A powerpoint presentation, poster presentation and written report. All were coded in <b>LaTeX</b> </li>
-    </ol>
   </li>
   <li> </li>
     </ol>
