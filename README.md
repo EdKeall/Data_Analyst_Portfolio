@@ -15,8 +15,8 @@ This repository is for the data analysis related projects I have done under the 
   <li> <b>March 2021 - Advanced Interdisciplinary Mathematics</b> </li>
     <ol>
       <li>Contains three groupwork projects completed at the start of 2021 in the AIM module at the University of Exeter</li>
-      <li>Written in <b>MATLAB</b> & <b>R</b></li>
-      <li>Includes report of analysed data, written in <b>LaTeX</li>
+      <li>Written in <b>MATLAB</b> & <b>R</b> </li>
+  <li>Includes report of analysed data, written in <b>LaTeX</b> </li>
     </ol>
   </li>
   <li> <b>Next Project</b> </li>
