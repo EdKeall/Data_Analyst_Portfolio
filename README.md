@@ -12,7 +12,7 @@ This repository is for the data analysis related projects I have done under the 
       <li>Includes report of analysed data, written in <b>LaTeX</b> </li>
     </ol>
   </li>
-  
+  &nbsp;
   
   <li> <b>March 2021 - Advanced Interdisciplinary Mathematics</b> </li>
     <ol>
