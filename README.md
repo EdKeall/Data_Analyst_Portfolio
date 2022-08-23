@@ -23,7 +23,7 @@ This repository is for the data analysis related projects I have done under the 
   <li>With these projects and a final exam I scored 84% in this module and was awarded the Dean’s Commendation for Exceptional Performance </li>
     </ol>
   </li>
-  
+  &nbsp;
   
   <li> <b>Next Project</b> </li>
     <ol>
