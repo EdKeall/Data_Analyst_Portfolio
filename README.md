@@ -19,7 +19,7 @@ This repository is for the data analysis related projects I have done under the 
       <li>Written in <b>MATLAB</b> & <b>R</b> </li>
   <li>Each project was reported using a different method of communication. A powerpoint presentation, poster presentation and written report. All were coded in <b>LaTeX</b> </li>
   </li>
-  <li> </li>
+  <li>With these projects and a final exam I scored 84% in this module and was awarded the Dean’s Commendation for Exceptional Performance </li>
     </ol>
   </li>
   <li> <b>Next Project</b> </li>
