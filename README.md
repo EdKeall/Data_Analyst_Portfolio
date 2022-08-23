@@ -6,7 +6,7 @@ This repository is for the data analysis related projects I have done under the 
 <ol>
   <li> <b>March 2022 - Dissertation Project</b> </li>
     <ol>
-      <li>Covers the largest project I have completed to date.</li>
+      <li>Covers the largest project I have completed to date by far.</li>
       <li>Written in <b>Python</b> using Jupyter Notebook</li>
       <li>Here I sourced, crunched, modelled and analysed two large longitudinal datasets from the Bermuda Atlantic Time-series Study (BATS)</li>
       <li>Includes report of analysed data, written in <b>LaTeX</b> </li>
