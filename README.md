@@ -4,7 +4,7 @@ This repository is for the data analysis related projects I have done under the 
 ## Projects:
 
 <ol>
-  <li> <b>March 2022 - Dissertation Project:</b> </li>
+  <li> <b>March 2022 - Dissertation Project</b> </li>
     <ol>
       <li>Covers the largest project I have completed to date.</li>
       <li>Written in <b>Python</b> using Jupyter Notebook</li>
