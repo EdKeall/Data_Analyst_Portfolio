@@ -19,5 +19,6 @@ Skills involved (all using Python):
 7. Trapizial Integration
 8. Linear Regression
 9. Data Visualisation (matplotlib_pyplt, incl. Contour plots)
+10. Code Report Writing (Jupyter Notebook)
 
 Further step by step details of my methods and techiques are available in the 'Data_Crunching_and_Analysis.ipynb' and 'Dissertation_writeup.pdf'.
