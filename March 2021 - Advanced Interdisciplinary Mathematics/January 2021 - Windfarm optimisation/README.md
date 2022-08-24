@@ -12,8 +12,8 @@
 
 - 'AIMReport_LaTeX_files' - Code and files used to create the 'AIMReport' in LaTeX.
 
-##### Skills involved (using <b>R</b>):
+##### Skills involved (using <b>MATLAB</b>):
 
-1.  Data/Model visualisation using ggplot2
-2.  LaTeX in R for visualisation (latex2exp)
-3.  Complex Compartmental Modelling design and prediction
+1.  Linear Programming (Optimisation Model)
+2.  Travelling Salesperson Algorithm
+3.  
