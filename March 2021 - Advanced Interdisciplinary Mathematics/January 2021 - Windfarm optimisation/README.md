@@ -10,7 +10,7 @@
 
 - 'AIMReport.pdf' (344KB) - The report that was created for the assessment of this project. It goes into detail on the creation and workings of our model as well as the visualisation and predictions we made using it.
 
-- 'AIMReport_LaTeX_files' - Code and files used to create the 'AIMReport' in LaTeX.
+- 'AIMSlides_LaTeX' - Code and files used to create the 'AIM_windfarm_slides' in LaTeX.
 
 ##### Skills involved (using <b>MATLAB</b>):
 
