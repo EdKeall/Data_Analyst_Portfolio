@@ -4,7 +4,7 @@
 
 ##### Files:
 
-- 'AIM1plots.m' (2KB) - Small optimisation model we used to find the number of small and large turbines to use
+- 'AIM1plots.m' (2KB) - Small optimisation model we used to find the number of small and large turbines to use on the planned windfarm. The model was designed to maximise power output, constraining for the economic costs and area of the windfarm.
 
 - 'AIM_COVID19_Model.R' (2KB) - The main body of work in this project. We expanded a SIRD population model to a SVIRD (suseptible, vaccinated, infected, recovered, deceased) and ran two of these models in parallel, to compare the old and young in a population. Parameters and variables were mirrored to recent statistics during the COVID-19 pandemic in the UK and used to model the impact of the pandemic in the UK.
 
