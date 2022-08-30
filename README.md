@@ -1,5 +1,5 @@
-# Data_Analyst_Portfolio
-This repository is for the data analysis related projects I have done under the University of Exeter Marine Biology BSc and future projects I hope to engage in to improve my skills.
+# Data_Analyst_Portfolio (WIP)
+This repository's aim is to display the data analysis related projects I have done during my University of Exeter Marine Biology BSc and future projects I hope to engage in to improve my skills.
 
 ## Projects:
 
