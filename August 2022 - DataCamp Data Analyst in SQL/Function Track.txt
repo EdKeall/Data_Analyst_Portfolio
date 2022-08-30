@@ -1,9 +1,29 @@
 SQL Functions Learnt
 
-SELECT
-FROM
-DISTINCT
-COUNT()
-WHERE
-AND
-OR
+SELECT, use to select attributes you want from a df
+
+FROM, use to select the dataframe you want to select attributes from
+
+DISTINCT, use to select only unique values of selection
+
+COUNT(), use to count number of rows of selected (value)
+
+WHERE, use to specify conditions on a selection
+
+AND, use to add conditions
+
+OR, use to add an alternate condition
+
+x BETWEEN, numerical selection conditon based on two values in attribute
+
+WHERE IN, use to streamline selections to anything in an array
+
+IS NULL, to query for missing data
+
+NOT, to query the opposite of a statement
+
+LIKE 'X%', used in a WHERE clause to search for a pattern
+	   % wildcard will match zero, one, or many characters in text
+	   _ wildcard will match a single character
+
+	e.g. LIKE '_r%' will give rows where the second letter ='r'
