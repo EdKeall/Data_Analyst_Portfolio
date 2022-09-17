@@ -2,9 +2,11 @@ SQL Functions Learnt
 
 SELECT, use to select attributes you want from a df
 
+SELECT x AS y, use to rename fields in query result
+
 FROM, use to select the dataframe you want to select attributes from
 
-DISTINCT, use to select only unique values of selection
+SELECT DISTINCT x, use to select only unique values from selection
 
 COUNT(), use to count number of rows of selected (value)
 
@@ -23,7 +25,18 @@ IS NULL, to query for missing data
 NOT, to query the opposite of a statement
 
 LIKE 'X%', used in a WHERE clause to search for a pattern
-	   % wildcard will match zero, one, or many characters in text
-	   _ wildcard will match a single character
+	   'X%' % wildcard will match zero, one, or many characters in text
+	   'X_' _ wildcard will match a single character
 
 	e.g. LIKE '_r%' will give rows where the second letter ='r'
+		  '%r_' will give records where the second to last letter = r
+
+Variable Types, (can be viewed in database 'schemas'):
+VARCHAR - variable character (common for strings)
+
+INT	- intergers
+
+NUMERIC, DATE etc...
+
+CREATE VIEW x AS, assigns subsequent query to 'x' so that the 
+		  selection can be made in shorthand in the future
