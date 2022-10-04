@@ -1,0 +1,1 @@
+This project utilised export data of farm soil samples from our Google Forms server and served to let the user select a farm, and group samples together into two or three triplets, where 3 averages were taken of 4 soil data fields and these were exported to a new csv to be used for analysis.
