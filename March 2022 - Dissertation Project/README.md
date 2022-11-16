@@ -9,7 +9,7 @@ Files:
 
 - 'BATS_pigment.csv' (532KB) - The second dataset contains 30 years of low freqeuncy/high accuracy Bottle sample data (lab-analysed seawater samples) taken from the same survey site in Bermuda. Depth, Time, Cruise_ID and two measures of Chl-a (pigment14 & pigment 16) were needed for this project. Sourced from simonscmap.com: https://simonscmap.com/catalog/datasets/BATS%20Pigments
 
-- 'Data_Crunching_and_Analysis.ipynb' (1991KB) - Jupyter Notebook containing all the coding of this project in Python. Each section's function is described concisely above it.
+- 'Data_Crunching_and_Analysis.ipynb' (1991KB) - Jupyter Notebook containing all the coding (over 1300 lines) of this project in Python. Each section's function is described concisely above it.
 
 - 'Dissertation Writeup.pdf' - Final Report of my results and findings, provides a lot of context to the project.
 
